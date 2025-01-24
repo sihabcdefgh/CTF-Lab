@@ -9,6 +9,8 @@ I hope you enjoy exploring this project. It's my humble attempt at creating a Ca
 - Various challenges to test your skills
 - Simple and straightforward approach
 
+If you need the database configuration, feel free to email me at rayzsihab@gmail.com.
+
 Please don't hesitate to leave feedback or open issues if you find anything. Thanks for checking out my project!
 
 Good luck and have fun! 🎉
